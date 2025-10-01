@@ -1,0 +1,3 @@
+model,train_loss,eval_loss,loss_diff,fit_status
+bert_finetuned,0.0716,0.02532520703971386,-0.04627479296028614,Good fit
+distilbert_finetuned,0.1357,0.11355622857809067,-0.02214377142190932,Good fit

@@ -1,0 +1,7 @@
+dataset,model,f1
+email,logreg_tfidf,0.964401
+email,rf_tfidf,0.966887
+email,bert_finetuned,0.9966555183946488
+url,logreg_tfidf,0.903339
+url,rf_tfidf,0.897995
+url,distilbert_finetuned,0.9666080843585237
